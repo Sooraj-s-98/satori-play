@@ -10,7 +10,7 @@ tags:
 
 This example is a simple [SvelteKit](https://kit.svelte.dev/) app.
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/svelte-kit)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/svelte-kit?referralCode=Yh2rJK)
 
 ## ✨ Features
 
